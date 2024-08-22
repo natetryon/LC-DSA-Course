@@ -1,2 +1,3 @@
-# csharp-training
-For personal learning and demos of C#
+# LC-DSA-Course
+
+Solutions to the problems in LeetCode's DSA crash course.
